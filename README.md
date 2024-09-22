@@ -47,8 +47,29 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the Reven
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
 
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantit Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
+## Process
+• Verily data for any missing values and anomalies, and sort out the same.
 
+• Made sure data is consistent and clean with respect to data type, data format and values used.
+
+• Created pivot tables according to the questions asked.
+
+• Merge all pivot tables into one dashboard and apply slicer to make dynamic
+
+## Projecr Insight
+ DAYS
+ Orders are highest on Sunday/Monday evenings.
+ MONTHLY
+ There are maximum orders from month of July and May.
+ Best Sellers- 
+ REVENUE The Thai Chicken Pizza Contributes  to maximum Revenue.
+ 
 ## Dashboard
 
 https://github.com/Vinitha-dotcom/Data-Analysis-Dashboard/blob/main/pizzasalesreportgithub.pdf
+
+Conclusion
+In concluding my  project, "From Ovens to Orders: A Pizza Sales Report," I have effectively utilized Power BI to dissect and understand the intricacies of pizza sales throughout 2023. The rigorous data collection and sophisticated analysis have uncovered key insights into consumer behaviors, sales patterns, and the operational efficacy of pizza selling businesses. By examining aspects such as daily and monthly order trends, preferred toppings, and pizza sizes, we have equipped industry stakeholders with the necessary knowledge to make informed decisions. My  findings underscore the critical role of data analytics in identifying customer preferences and streamlining business operations. The project not only demonstrates our ability to harness technology for strategic advantage but also enhances our understanding of the competitive landscape in the food industry. The actionable intelligence derived from our analysis provides a solid groundwork for pizza vendors aiming to refine their offerings and operational strategies in response to evolving market demands.
+
+As we move forward, the insights and methodologies established through this project will serve as invaluable assets. They will not only guide future endeavors aimed at enhancing customer satisfaction and business performance but also contribute to the broader narrative of innovation and adaptation in the face of changing consumer landscapes.
 
