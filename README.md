@@ -59,7 +59,9 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 ## Project Insight
 Orders are highest on Sunday/Monday evenings.
 There are maximum orders from month of July and May.
+
 Best Sellers- 
+
 The Thai Chicken Pizza Contributes  to maximum Revenue.
 The Classic Deluxe Pizza
 Contributes to maximum Total Quantities
