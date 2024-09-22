@@ -57,12 +57,21 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 • Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
 ## Project Insight
- DAYS
- Orders are highest on Sunday/Monday evenings.
- MONTHLY
- There are maximum orders from month of July and May.
- Best Sellers- 
- REVENUE The Thai Chicken Pizza Contributes  to maximum Revenue.
+Orders are highest on Sunday/Monday evenings.
+There are maximum orders from month of July and May.
+Best Sellers- 
+The Thai Chicken Pizza Contributes  to maximum Revenue.
+The Classic Deluxe Pizza
+Contributes to maximum Total Quantities
+The Classic Deluxe Pizza
+Contributes
+to maximum Total Orders
+
+Worst sellers
+
+The Brie Carre Pizza Contributes to maximum Revenue
+The Brie Carre Pizza Contributes to maximumTotal Quantities
+The Brie Carre Pizza Contributes to maximum Total Orders
  
 ## Dashboard
 
