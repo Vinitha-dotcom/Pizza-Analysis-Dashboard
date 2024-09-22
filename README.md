@@ -56,7 +56,7 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 
 • Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
-## Projecr Insight
+## Project Insight
  DAYS
  Orders are highest on Sunday/Monday evenings.
  MONTHLY
